@@ -5,6 +5,7 @@ This project performs an end-to-end data science pipeline on a comprehensive Net
 📁 Project Structure
 
 BingeMetrics/
+
 │
 |── netflix_titles.csv          # Raw dataset
 
@@ -12,6 +13,7 @@ BingeMetrics/
 │
 
 ├── charts/                        # Exported plots
+
 │   ├── q1_movies_vs_tvshows.png
 
 │   ├── q2_top_countries.png
