@@ -29,6 +29,7 @@ Features             show_id, type, title, director, cast, country, date_added, 
 1. Data Cleaning
 
 ── Handling null values across director, cast, country, date_added, and rating
+
 ── Parsing date_added into datetime format
 ── Extracting month_added and year_added as features
 
