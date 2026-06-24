@@ -2,25 +2,26 @@
 
 This project performs an end-to-end data science pipeline on a comprehensive Netflix catalog dataset from Kaggle. The objective is twofold: to uncover streaming content patterns through deep Exploratory Data Analysis (EDA), and to build a predictive classification model determining whether a given title should be classified as a TV Show or a Movie.
 
-📁 Project Structure
-
-BingeMetrics/
-
-|── netflix_titles.csv          # Raw dataset
-
-├── netflix_titles.ipynb           # Main analysis notebook
-
-├── charts/                        # Exported plots
-
-│   ├── q1_movies_vs_tvshows.png
-
-│   ├── q2_top_countries.png
-
-│   ├── q3_content_per_year.png
-
+## 📁 Project Structure
+ 
+```
+netflix-eda/
+│
+├── data/
+│   └── netflix_titles.csv          # Raw dataset
+│
+├── notebooks/
+│   └── netflix_eda.ipynb           # Main analysis notebook
+│
+├── visuals/                        # Exported plots
+│   ├── content_type_distribution.png
+│   ├── top_countries.png
+│   ├── release_year_trend.png
 │   └── ...
-
+│
+├── requirements.txt
 └── README.md
+```
 
 
 📊 Dataset
