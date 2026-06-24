@@ -91,8 +91,7 @@ This project is licensed under the [MIT License](LICENSE).
 ## 🙋‍♂️ Author
  
 **Deeptanshu Chakraborty**  
-AI & Data Science Engineering Student —
-
+AI & Data Science Engineering Student 
 Thapar Institute of Engineering & Technology  
 [GitHub](https://github.com/<your-username>) • [LinkedIn](https://linkedin.com/in/<your-profile>)
 
