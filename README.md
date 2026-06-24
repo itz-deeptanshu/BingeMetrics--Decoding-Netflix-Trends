@@ -7,9 +7,11 @@ This project performs an end-to-end data science pipeline on a comprehensive Net
 BingeMetrics/
 
 │
+
 |── netflix_titles.csv          # Raw dataset
 
-├── netflix_eda.ipynb           # Main analysis notebook
+├── netflix_titles.ipynb           # Main analysis notebook
+
 │
 
 ├── charts/                        # Exported plots
