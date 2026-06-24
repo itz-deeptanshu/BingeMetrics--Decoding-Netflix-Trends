@@ -82,11 +82,16 @@ netflix-eda/
 | Seaborn       | Statistical visualizations       |
 | Jupyter       | Interactive notebook environment |
 
-📄 License
+## 📄 License
+ 
+This project is licensed under the [MIT License](LICENSE).
+ 
+---
+ 
+## 🙋‍♂️ Author
+ 
+**Deepiee**  
+AI & Data Science Engineering Student —
+Thapar Institute of Engineering & Technology  
+[GitHub](https://github.com/<your-username>) • [LinkedIn](https://linkedin.com/in/<your-profile>)
 
-This project is licensed under the MIT License.
-
-🙋‍♂️ Author
-Deeptanshu Chakraborty
-AI & Data Science Engineering Student 
-Thapar Institute of Engineering & Technology
