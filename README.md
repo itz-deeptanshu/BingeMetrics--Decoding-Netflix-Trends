@@ -5,21 +5,19 @@ This project performs an end-to-end data science pipeline on a comprehensive Net
 ## 📁 Project Structure
  
 ```
-netflix-eda/
+BingeMetrics/
 │
-├── data/
-│   └── netflix_titles.csv          # Raw dataset
+├── netflix_titles.csv              # Raw dataset
 │
-├── notebooks/
-│   └── netflix_eda.ipynb           # Main analysis notebook
+├── netflix_titles.ipynb            # Main analysis notebook
+├── netflix.py                      # Python file
 │
-├── visuals/                        # Exported plots
-│   ├── content_type_distribution.png
-│   ├── top_countries.png
-│   ├── release_year_trend.png
+├── charts/                         # Exported plots
+│   ├── q1_movies_vs_tvshows.png
+│   ├── q2_top_countries.png
+│   ├── q3_content_per_year.png
 │   └── ...
 │
-├── requirements.txt
 └── README.md
 ```
 
